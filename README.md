@@ -1,8 +1,8 @@
 ### &nbsp  
 Para crear un espacio en la misma línea.  
 
-### <br>  
+### ```<br>```    
 Para crear una linea en blanco.  
 
-### <hr>  
+### ```<hr>```  
 Para crear una linea gris.  
